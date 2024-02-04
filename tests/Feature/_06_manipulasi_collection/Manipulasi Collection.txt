@@ -1,0 +1,7 @@
+Manipulasi Collection
+
+● Collection adalah sebuah class, oleh karena itu untuk memanipulasi data nya, kita perlu
+menggunakan method yang terdapat di Collection
+
+
+

@@ -1,0 +1,16 @@
+Collection Operations
+
+push(data)
+Menambah data ke paling belakang
+
+pop()
+Menghapus dan mengambil data paling terakhir
+
+prepend(data)
+Menambah data ke paling depan
+
+pull(key)
+Menghapus dan mengambil data sesuai dengan key
+
+put(key, data)
+Mengubah data dengan key
