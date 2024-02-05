@@ -1,0 +1,8 @@
+Mapping
+
+● Mapping adalah transformasi (mengubah bentuk data) menjadi data lain
+
+● Mapping membutuhkan function sebagai parameter yang digunakan untuk membentuk data
+lainnya
+
+● Urutan Collection hasil mapping adalah sama dengan urutan collection aslinya

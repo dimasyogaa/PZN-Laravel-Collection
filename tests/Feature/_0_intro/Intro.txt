@@ -1,0 +1,5 @@
+APP_URL=http://localhost
+
+Berikut file dan folder yang digunakan pada tutorial seri ini
+app :
+    - Data

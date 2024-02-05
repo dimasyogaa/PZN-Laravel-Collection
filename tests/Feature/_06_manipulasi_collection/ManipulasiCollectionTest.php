@@ -6,7 +6,8 @@ use Tests\TestCase;
 use function PHPUnit\Framework\assertEquals;
 use function PHPUnit\Framework\assertEqualsCanonicalizing;
 
-// php artisan test --filter ManipulasiCollectionTest
+// php artisan test --filter Manipulasi
+// php artisan test --filter ManipulasiCollectionTestD
 class ManipulasiCollectionTest extends TestCase
 {
 
