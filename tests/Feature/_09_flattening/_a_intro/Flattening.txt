@@ -1,0 +1,2 @@
+Flattening
+● Flattening adalah operasi transformasi untuk menjadikan nested collection menjadi flat
