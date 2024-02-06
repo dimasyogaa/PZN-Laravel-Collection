@@ -1,0 +1,2 @@
+Slicing
+● Slicing adalah operasi untuk mengambil sebagian data di Collection
