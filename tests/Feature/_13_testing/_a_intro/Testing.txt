@@ -1,0 +1,5 @@
+Testing
+
+● Testing adalah operasi untuk mengecek isi data di collection
+
+● Hasil dari testing adalah boolean, dimana true jika sesuai kondisi, dan false jika tidak sesuai kondisi
