@@ -1,0 +1,2 @@
+Grouping
+● Grouping adalah operasi untuk meng-grup kan element-element yang ada di collection.
