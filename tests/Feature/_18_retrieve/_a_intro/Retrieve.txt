@@ -1,0 +1,2 @@
+Retrieve
+● Retrieve adalah operasi untuk mengambil data di Collection
