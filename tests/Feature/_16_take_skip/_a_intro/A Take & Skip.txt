@@ -1,0 +1,12 @@
+Take & Skip
+
+● Untuk mengambil sebagian element di collection, selain menggunakan slice, kita juga bisa
+menggunakan operator take dan skip
+
+bedanya filter dan take yaitu
+jika filter akan terus diiterasi sampe akhir apapun hasilnya false/true
+sedangkan
+jika take, iterasi akan berhenti ketika sudah muncul hasilnya false/true
+
+
+take merupakan kebalikan dari skip
