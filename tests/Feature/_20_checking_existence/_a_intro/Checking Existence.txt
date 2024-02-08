@@ -1,0 +1,2 @@
+Checking Existence
+● Checking Existence merupakan operasi untuk mengecek apakah terdapat data yang dicari di Collection

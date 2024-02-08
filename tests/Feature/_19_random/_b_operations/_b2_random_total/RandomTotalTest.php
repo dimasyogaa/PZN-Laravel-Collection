@@ -24,7 +24,7 @@ class RandomTotalTest extends TestCase
             $this->assertContains($value, $collection->toArray());
             $this->assertTrue(in_array($value, [1, 2, 3, 4, 5, 6, 7, 8, 9]));
         }
-        
+
         // tidak bisa ditest menggunakan ini :
         // $result = $collection->random(5);
         // $this->assertEqualsCanonicalizing([1,2,3,4,5], $result->all());
