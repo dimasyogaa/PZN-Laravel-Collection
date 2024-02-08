@@ -1,0 +1,2 @@
+Ordering
+● Ordering adalah operasi untuk melakukan pengurutan data di Collection
