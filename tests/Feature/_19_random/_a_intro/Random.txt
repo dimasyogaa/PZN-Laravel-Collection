@@ -1,0 +1,2 @@
+Random
+● Random adalah operasi untuk mengambil data di collection dengan posisi random
