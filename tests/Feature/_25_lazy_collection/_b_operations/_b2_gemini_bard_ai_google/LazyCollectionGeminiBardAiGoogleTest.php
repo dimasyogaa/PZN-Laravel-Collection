@@ -91,6 +91,7 @@ class LazyCollectionGeminiBardAiGoogleTest extends TestCase
                 yield $item;
                 $item++;
             }
+
         });
 
         $result = $collection->take(10);
