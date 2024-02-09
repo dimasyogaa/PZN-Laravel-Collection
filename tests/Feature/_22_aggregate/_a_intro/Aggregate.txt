@@ -1,0 +1,2 @@
+Aggregate
+● Laravel collection juga memiliki beberapa method untuk melakukan aggregate
