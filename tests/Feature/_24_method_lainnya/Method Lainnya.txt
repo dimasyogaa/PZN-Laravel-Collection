@@ -1,0 +1,10 @@
+Metode Lainnya
+
+● Sekarang kita sudah membahas hampir sebagian besar operasi yang bisa kita lakukan di Laravel
+Collection
+
+● Namun sebenarnya masih banyak method yang bisa kita gunakan di Laravel Collection
+
+● https://laravel.com/api/10.x/Illuminate/Support/Collection.html
+
+● https://laravel.com/docs/10.x/collections#available-methods
