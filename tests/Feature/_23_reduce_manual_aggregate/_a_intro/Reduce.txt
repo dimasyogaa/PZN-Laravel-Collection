@@ -1,0 +1,8 @@
+Reduce
+
+● Jika kita ingin membuat aggregate secara manual, kita bisa menggunakan function reduce
+
+● Reduce merupakan operasi yang dilakukan pada tiap data yang ada di collection secara sequential
+dan mengembalikan hasil
+
+● Hasil dari reduce sebelumnya akan digunakan di iterasi selanjutnya
